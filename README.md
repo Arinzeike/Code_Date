@@ -1,6 +1,6 @@
 # My  Python Code Journey
 ## Introduction
-Welcome to my Python Code" journey! Over the course of upcoming days, I've immersed myself in the world of Python programming, dedicating focused time each day to honing my skills, exploring new concepts, and building exciting projects.
+Welcome to my Python Code" journey! Over upcoming days, I've immersed myself in the world of Python programming, dedicating focused time each day to honing my skills, exploring new concepts, and building exciting proje
 
 ## Commitment to Growth
 I embarked on this journey with a resolute commitment to coding for at least one hour every day. This consistent practice has been instrumental in deepening my understanding of Python's intricacies and its vast range of applications.
